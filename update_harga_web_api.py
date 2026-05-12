@@ -3,8 +3,8 @@ from woocommerce import API
 
 wcapi = API(
     url="https://oneit-solution.com/",
-    consumer_key="ck_a778b70266f5cbaa1ec2492e386086c140452961",
-    consumer_secret="cs_c98d3a9c07811ee25e08a0e0c096e0e36920d064",
+    consumer_key="ck_xxx",
+    consumer_secret="cs_xxx",
     version="wc/v3",
     timeout=60
 )
